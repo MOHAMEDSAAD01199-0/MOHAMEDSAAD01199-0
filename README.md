@@ -184,7 +184,7 @@ I have experience working with:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="https://www.linkedin.com/in/mohamed-saad-68413838b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgtDyhw%2BhRe%2Be%2F3ZUxoSoTw%3D%3D">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
